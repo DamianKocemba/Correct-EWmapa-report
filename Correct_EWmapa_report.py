@@ -2,9 +2,9 @@
 
 #define parameters
 path = "C:\\Users\\damia\\OneDrive\\Pulpit\\Python\\poprawa_raportu_EWmapa\\"
-raport = "osnowa_z1962r_w_ukl2000_Raport.txt"    #report file to correction
-punkty = "osnowa_z1962r_w_ukl2000.txt"           #file with coordinates
-raport_ok = "results.txt"                        #result file
+raport = "Raport.txt"           #report file to correction
+punkty = "osnowa.txt"           #file with coordinates
+raport_ok = "results.txt"       #result file
 
 #list of points - number, X, Y
 points_list = []
