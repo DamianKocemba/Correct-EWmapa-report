@@ -1,4 +1,4 @@
-# Polski: Poprawa raportu obliczeniowego o brakujące dane
+## Polski: Poprawa raportu obliczeniowego o brakujące dane
 
 Skrypt uzupełnia raport "Raport.txt" utworzony z programu geodezyjnego EWmapa 
 o brkujące numery punktów osnowy geodezyjnej w "Linii bazowej" (w pliku są same
@@ -7,7 +7,7 @@ współrzędnych (porównanie współrzędnych z pliku Raport.txt oraz osnowa.tx
 Wynikiem końcowym jest plik "results.txt" - analogiczny plik jak "Raport.txt", ale uzupełniony 
 o numery punktów w "Linii bazowej".
 
-# English: Report's correction for missing data
+## English: Report's correction for missing data
 
 Script allows to fill in report "Raport.txt" made by geodetic programm EWmapa where
 there are missing numbers of geodetic network in baseline - "Linia bazowa" in "Raport.txt"
